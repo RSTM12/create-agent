@@ -9,7 +9,7 @@ Tidak perlu browser. Tidak perlu Google login. Cukup jalankan script.
 **1. Clone repo**
 \```bash
 git clone https://github.com/RSTM12/create-agent.git
-cd clawpump-agent-signup
+cd create-agent
 \```
 
 **2. Install dependencies**
