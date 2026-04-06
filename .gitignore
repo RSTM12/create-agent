@@ -1,0 +1,9 @@
+clawpump-wallet.json
+clawpump-creds.json
+*-wallet.json
+*-creds.json
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
